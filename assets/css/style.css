@@ -67,7 +67,7 @@ body{
     width: 100%;
     height: 100%; 
     z-index: -1;
-    background: url(/assets/images/img5.jpg);
+    background: url(/assets/images/Akshay\ photo.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -89,28 +89,26 @@ body{
     left: 0;
     right: 0;
     width: 100%;
-    padding: 10%;
-    color: white;
+    margin: 0 auto;
+    padding-left: 50%;
 }
 
 .header .content h1{
     font-size: 36px;
     line-height: 1;
-   padding-left: 400px;
-   
+    margin: 0;
+    color: #fff;
 }
 
 .header .content p{
     font-size: 20px;
-    padding-left: 400px;
-    
+    color: #fff;
 }
 
 
 .header .content .social-icon{
     padding: 0;margin: 0;
     display: block;
-    padding-left: 400px;
 }
 .header .content .social-icon li{
     display: inline-block;
@@ -120,7 +118,7 @@ body{
 .header .content .social-icon a{
     display: block;
     font-size: 30px;
-    color: white;
+    color: #fff;
     height: 35px;
     width: 35px;
     line-height: 33px;
